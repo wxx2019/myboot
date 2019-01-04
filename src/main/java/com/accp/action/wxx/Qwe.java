@@ -7,6 +7,7 @@ public class Qwe {
 		System.out.println("YYYY");
 		System.out.println("MM");
 		System.out.println("DD");
+		System.out.println("HH");
 	}
 
 }
